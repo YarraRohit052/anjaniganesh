@@ -1,0 +1,75 @@
+.dashboard{
+    width: 100%;
+    background-color: #337ab7;
+    height: 14px;
+    border-radius: 3px;
+}
+.space{
+    margin-top: 25rem;
+    color: white;
+}
+.image{
+    width: 100%;
+}
+.verification-box{
+    width: 50%;
+    margin: 3% auto;
+    height: 50%;
+    margin-bottom: 30px;
+}
+.verification-box-body{
+    background: #337ab7;
+    color: #fff;
+    margin-top: 90px;
+}
+.image1{
+    width: 30%;
+    height: 30%;
+    margin-top: 30px;
+}
+.completion-box-msg{
+    margin: 0;
+    text-align: center;
+    padding: 0 20px 20px 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+h3 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: left;
+    margin-left: 20px;
+}
+@media only screen and (min-width: 10px) and (max-width: 500px) {
+    .verification-box{
+        width: 100%;
+        margin: 3% auto;
+    }
+    .image1{
+        width: 30%;
+        height: 30%;
+        margin-top: 20px;
+    }
+}
+@media only screen and (min-width: 540px) and (max-width: 960px)  {
+    .ng-binding {
+      font-size: 12px !important;
+    }
+  }
+  @media only screen and (min-width: 1024px) and (max-width: 1280px)  {
+    .ng-binding {
+      font-size: 15px !important;
+    }
+    .verification-box-body{
+        background: #337ab7;
+        color: #fff;
+        margin-top: 90px;
+    }
+  }
+  @media screen and (max-width: 480px) {
+    h3.ng-binding {
+      font-size: 1.2rem; 
+    }
+  }
