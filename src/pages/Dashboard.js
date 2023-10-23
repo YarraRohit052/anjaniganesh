@@ -17,28 +17,29 @@ const Dashboard = () => {
                     <h2 className='completion-box-msg'>
                         <img src={logo2} alt="AICTE Logo" className='image1' />
                         <br></br>
-                        AICTE Inernship Certificate is successfully verified
+                        AICTE Internship Certificate is successfully verified
                     </h2>
                     <h3 className='ng-binding'>
-                        Certificate ID:  8e287451a68241b5883d79952367966b
+                        Certificate ID: 6d68edbaefe24605d432946f61ecf773
                     </h3>
                     <h3 className='ng-binding'>
                         Issued On: 12 Oct 2022
                     </h3>
                     <h3 className='ng-binding'>
-                        Issued To: YARRA ROHIT
+                        Issued To: RAVI NAGA ANJANI GANESH MUTHYALA
                     </h3>
                     <h3 className='ng-binding'>
                         Institute: Vishnu Institute of Technology
                     </h3>
                     <h3 className='ng-binding'>
-                        Internship: CYBERSECURITY VIRTUAL INTERNSHIP (JULY - SEP 2022)
+                        Internship: CYBERSECURITY VIRTUAL INTERNSHIP (JUN - JUL 2023)
                     </h3>
                     <br></br>
                 </div>
             </div>
             <div className='space'>
-                hiihgigg
+                <br></br>
+                <br></br>
             </div>
         </>
     );
