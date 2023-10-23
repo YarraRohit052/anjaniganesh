@@ -23,7 +23,7 @@ const Dashboard = () => {
                         Certificate ID: 6d68edbaefe24605d432946f61ecf773
                     </h3>
                     <h3 className='ng-binding'>
-                        Issued On: 12 Oct 2022
+                        Issued On: 10 Aug 2023
                     </h3>
                     <h3 className='ng-binding'>
                         Issued To: RAVI NAGA ANJANI GANESH MUTHYALA
