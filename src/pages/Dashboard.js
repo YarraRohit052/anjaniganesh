@@ -32,7 +32,7 @@ const Dashboard = () => {
                         Institute: Vishnu Institute of Technology
                     </h3>
                     <h3 className='ng-binding'>
-                        Internship: CYBERSECURITY VIRTUAL INTERNSHIP (JUN - JUL 2023)
+                        Internship: CYBERSECURITY VIRTUAL INTERNSHIP (MAY - JULY 2023)
                     </h3>
                     <br></br>
                 </div>
